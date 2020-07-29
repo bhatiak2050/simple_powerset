@@ -1,1 +1,1 @@
-from powerset.powerset import powerset
+from simple_powerset.powerset import powerset
